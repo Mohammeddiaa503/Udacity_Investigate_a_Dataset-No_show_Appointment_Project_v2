@@ -1,4 +1,4 @@
-# Udacity_Investigate_a_Dataset-No_show_Appointment_Project_v2
+# Udacity_Investigate_a_Dataset_No_show_Appointment_Project_v2
 > **This dataset collects information
 from 100 k medical appointments in
 Brazil and is focused on the question
